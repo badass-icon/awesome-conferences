@@ -89,11 +89,93 @@
 25. A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!
 26. return-to-csu: A New Method to Bypass 64-bit Linux ASLR
 
+
+### [JS Fest 2018](https://www.youtube.com/watch?v=uSxX24zyWj0&list=PLuOBDBq7MW71h_NeH_PigX_ApM1PhB1b8)
+
+1. JS FEST 2018 [overview]
+2. Александр Скачков. WebAssembly vs JavaScript. JS Fest 2018
+3. Douglas Crockford. The Better Parts. JS Fest 2018
+4. Алексей Мигуцкий. Как зарабатывать больше. JS Fest 2018
+5. Harry Roberts. Why Fast Matters. JS Fest 2018
+6. Роман Саченко. NodeJS Microservices + CQRS + Event Sourcing - Зачем я это делаю? JS Fest 2018
+7. Douglas Crockford. The Power of the Paradigm. JS Fest 2018
+8. Harry Roberts. FaCSSt: CSS & Performance. JS Fest 2018
+9. Никита Галкин. Микросервисная архитектура с переиспользуемыми компонентами. JS Fest 2018
+10. Александр Коротаев. Игра «Герои Меча и Магии» в браузере. JS Fest 2018
+11. Сергій Бабіч. Прогрійте свої двигуни! або Я знаю, що ви зробили минулого літа з V8. JS Fest 2018
+12. Роман Якобчук. React, взгляд в будущее. JS Fest 2018
+13. Володимир Шиманський. Запуск двіжка JS на мікроконтролері. JS Fest 2018
+14. Алексей Волков. Полезные инструменты для JS разработки. JS Fest 2018
+15. [Private video]
+16. Martin Chaov. SSE vs WebSockets vs Long Polling. JS Fest 2018
+17. Виталий Ратушный. ES X. JS Fest 2018
+18. Денис Радин.UI компоненты на пиксельных шейдерах в Web(Angular, React, Vue)приложениях.JS Fest 2018
+19. Иван Гончаров. W.T.F. is GraphQL? JS Fest 2018
+20. Андрей Кучеренко. Мутационное тестирование в JavaScript. JS Fest 2018
+21. Алексей Мигуцкий. Как Microsoft To-Do использует React. JS Fest 2018
+22. Илья Иванов. Введение в React-Native. JS Fest 2018
+23. Тимофей Лавренюк. Делаем веб приложение лучше с помощью современных браузерных API. JS Fest 2018
+24. Сергей Пузанков. E2E-тестирование фронтенда c Hermione. JS Fest 2018
+25. Лилия Карпенко. Создание IOS/Android Mobile Apps с помощью React/Redux Cordova.JS Fest 2018
+26. Владимир Заец. GraphQL - удобное API или хайп? JS Fest 2018
+27. Максим Климишин. Распределенные данные: CRDT-структуры данных в JS. JS Fest 2018
+28. Anna Herlihy. How to Write a Compass Plugin. JS Fest 2018
+29. Mathias Buus Madsen. Building interactive command line applications. JS Fest 2018
+
 ## 2018 - 04
 
 ## 2018 - 03
 
+### [JavaScript fwdays'18](https://www.youtube.com/watch?v=jzaZlEOSwoA&index=1&list=PLPcgQFk9n9y8_G0Gyh0yqDuiZqy15RLDo)
+
+1. Illya Klymov "JavaScript: День 4001-й"
+2. Sergiy Babich "Як ангулярити на 5+"
+3. Mykhailo Churilov "Front-end Microservices Architecture"
+4. Andrey Listochkin "Time, Numbers, Text"
+5. Artem Yavorsky "99 ways to take away your ugly polyfills" [Lightning talk]
+6. Oleksandr Skachkov "How to run WebAssembly in your React web application" [Lightning talk]
+7. Vitalii Ratushnyi "Vue: webcomponents" [Lightning talk]
+8. Ekaterina Lizogubova "React: дорога к просветлению"
+9. Anton Nemtsev "Кодстайл и насилие"
+10. International Speakers' Corner: Jan Jongboom, Martin Splitt, Feross Aboukhadijeh, Noam Rosenthal
+11. Martin Splitt "Creating virtual worlds in the browser"
+12. Vladimir Zaets "GraphQL - новый взгляд на API"
+13. Nikita Galkin "Best practices and troubleshooting guide for node applications" [Workshop]
+14. Gregory Shehet "Растим детей. Или как Иван Васильевич запускал эксперименты?"
+15. Noam Rosenthal "Frontend testing for Wix viewer: case study"
+16. Feross Aboukhadijeh "The Most Annoying Website"
+17. Helen Zhukova "Жизнь вне JavaScript"
+18. Andrii Kanunnikov "600 секунд об async_hooks" [Lightning talk]
+19. Oleksandr Poshtaruk "Use-case оператора replyWhen из Rx.JS" [Lightning talk]
+20. Sergey Melashych "Web Workers - добавьте производительности своим Web приложениям" [Lightning talk]
+21. Jan Jongboom "JavaScript all the things"
+22. JavaScript fwdays'18 | Highlights
+
 ## 2018 - 02
+
+### [.NET Fest 2017](https://www.youtube.com/watch?v=05DyWjTBg0c&index=1&list=PLuOBDBq7MW71ySXwzWT73NjPYZGRg-LGh)
+
+1. Anton Moldovan "How do we cook highload microservices at SBTech"
+2. .NET Fest 2017
+3. Игорь Фесенко "Внутренности C#"
+4. Денис Резник "Исполнение запроса в SQL Server. Ожидание - Реальность"
+5. Сергей Калинец "Функциональная веб-разработка на F#"
+6. Matteo Pagani "Prism and Xamarin Forms: create cross-platform app using the MVVM pattern"
+7. Андрей Антиликаторов "Проектирование и разработка приложений на .NET Core"
+8. Ugo Lattanzi "What's new in ASP.NET Core 2.0?"
+9. Антон Бойко "Лучшие DevOps практики для разработчиков"
+10. Mark Seemann "From Dependency injection to dependency rejection"
+11. Dino Esposito "UXDD: A New Pragmatic Methodology for Domain Modeling and User Experience"
+12. Dino Esposito "I Have a Microservices Architecture and I Didn't Know"
+13. Михаил Щербаков "Механизмы предотвращения атак в ASP.NET Core"
+14. Марат Юлдашев "Особенности построения архитектуры и разработки приложений в домене healthcare"
+15. Игорь Кочетов "Классификация результатов тестирования производительности с помощью Machine Learning"
+16. Stefano Tempesta "SOLID SharePoint apps with TypeScript and SharePoint Framework"
+17. Константин Проскурдин "Marten как хранилище документов для .NET приложений"
+18. Олександр Краковецький "Інструменти Microsoft в сфері штучного інтелекту та машинного навчання"
+19. Martin Kulov "Treasure Hunt: Finding your application hot spot"
+20. Matteo Pagani  "Everything you need to know about Windows Mixed Reality"
+21. Catalin Gheorghiu "IoT Circus – Trapeze (In Cloud acrobatics)"
 
 ## 2018 - 01
 
@@ -530,7 +612,7 @@
 
 ## 2016 - 10
 
-## 2016 - 09
+## 2016 - 10
 
 ### [Full Stack Fest 2016](https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc&index=1)
 1. Full Stack Fest 2016 - Highlights
