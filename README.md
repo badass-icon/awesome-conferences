@@ -88,3 +88,70 @@
 24. Securing Your In-Ear-Fitness Coach: Challenges in Hardening Next Generation Wearables
 25. A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!
 26. return-to-csu: A New Method to Bypass 64-bit Linux ASLR
+
+## 2018 - 04
+
+## 2018 - 03
+
+## 2018 - 02
+
+## 2018 - 01
+
+## 2017 - 12
+
+## 2017 - 11
+
+## 2017 - 10
+
+## 2017 - 09
+[Full Stack Fest 2017](https://www.youtube.com/watch?v=K9-FxylS_Sk&index=1&list=PLe9psSNJBf743rgLMRVKytyQkDUolnZnY)
+
+1. Highlights of Full Stack Fest 2017: Problems of today, wonders from the future
+2. The web of commons (Karissa McKelvey)
+3. Ethereum, Aeternity and the distributed wonders (Luca Marchesini)
+4. Terraform in your delivery pipeline (Anton Babenko)
+5. Migrating an existing service to serverless (Marcia Villalba)
+6. Defending the human network (Dr. Jessica Barker)
+7. The rise and fall of the full stack database (Frank Lyaruu)
+8. How Booking.com serves Deep Learning Model Predictions (Sahil Dua)
+9. What to do when complex systems fail: A guide to chaos management (Aish Dahal)
+10. The new reality of DDOS (John Graham Cumming)
+11. An introduction to distributed tracing and Zipkin (Adrian Cole)
+12. Practical distributed systems: Building for the real world with chaos engineering (James Burns)
+13. Flying Spaguetti Monster: Verifying protocols with types and finite state machines (Chris Ford)
+14. Smart Grid: How IoT fights climate change (Kelsey Breseman)
+15. Beyond patterns: Technological systems and the nature of order (Jerome Scheuring)
+16. Back-end lightning talks (Full Stack Fest)
+17. Gone in 60 milliseconds: Offensive security in the serverless age (Rich Jones)
+18. Front-end keynote (Jenn Schiffer)
+19. Once you go PRPL... (Houssein Djirdeh)
+20. Magic Tricks with CSS Houdini (Sam Richard)
+21. Master the art of the AST and take control of your JS (Yonatan Mevorach)
+22. SVG can do that?! (Sarah Drasner)
+23. Using React Native + ClojureScript to launch iOS/Android apps to 1M users (Emin Hasanov)
+24. Online/Offline equivalence: What our interplanetary tomorrow can teach us today (Chad Ostrowski)
+25. Blasting React into Space: Building fluid interface swith React and WebGL (Ashi Krishnan)
+26. Bringing back the 1990s: The revenge of JavaScript Style Sheets (Steve Kinney)
+27. Rendering performance from the ground up (Martin Splitt)
+28. Web based Virtual Reality (Shagufta Gurmukhdas)
+29. Exploring the world of decentralized networks with WebRTC (Nikita Baksalyar)
+30. Developing for the next Billion (Natalie Pistunovich)
+31. Progressive Web Apps and the Internet of Things (Luis Montes)
+32. Front-end lightning talks (Full Stack Fest 2017)
+33. Making a lot of things (Ben Foxall)
+
+## 2017 - 08
+
+## 2017 - 07
+
+## 2017 - 06
+
+## 2017 - 05
+
+## 2017 - 04
+
+## 2017 - 03
+
+## 2017 - 02
+
+## 2017 - 01
