@@ -156,3 +156,48 @@
 ## 2017 - 02
 
 ## 2017 - 01
+
+## 2016 - 12
+
+## 2016 - 11
+
+## 2016 - 10
+
+## 2016 - 09
+
+### [Full Stack Fest 2016](https://www.youtube.com/watch?v=fnG7BE_FMjo&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc&index=1)
+1. Full Stack Fest 2016 - Highlights
+2. Full Stack Fest 2016 teaser: Problems of today, ideas from the future
+3. Computing: The first 100 years (Joe Armstrong) - Full Stack Fest 2016
+4. Shopify in Multiple Datacenters (Simon Eskildsen) - Full Stack Fest 2016
+5. Architectural patterns of resilient distributed systems (Ines Sombra) - Full Stack Fest 2016
+6. Unikernels and why they're useful (or not) (Amir Chaudhry) - Full Stack Fest 2016
+7. What did AlphaGo do to beat the strongest human Go player? (Tobias Pfeiffer) - Full Stack Fest 2016
+8. How secure are Docker containers? (Ben Hall) - Full Stack Fest 2016
+9. High availability with Elixir and Erlang (Saša Jurić) - Full Stack Fest 2016
+10. Backend lightning talks - Full Stack Fest 2016
+11. How to write a search engine in 15 lines of code (Paul Chiusano) - Full Stack Fest 2016
+12. Whirlwind tour through the HTTP2 spec (Ole Michaelis) - Full Stack Fest 2016
+13. Microservice Pipeline Architecture (Tim Perry) - Full Stack Fest 2016
+14. The State Of Serverless (Austen Collins) - Full Stack Fest 2016
+15. Low-res NLP for your everyday life (Duretti Hirpa) - Full Stack Fest 2016
+16. Distributed Apps with IPFS (Juan Benet) - Full Stack Fest 2016
+17. From REST to GraphQL (Marc-Andre Giroux) - Full Stack Fest 2016
+18. Building a Recommendation Engine with Machine Learning Techniques (Brian Sam-Bodden) - FSF 2016
+19. Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016
+20. Confident Frontend with Elm (Jack Franklin) - Full Stack Fest 2016
+21. The future of ES6 (Jafar Husain) - Full Stack Fest 2016
+22. Best Practices on building a UI component library for your company (David Wells) - FSF 2016
+23. CSS4 Grid: True Layout Finally Arrives (Jen Kramer) - Full Stack Fest 2016
+24. The Frontend Is a Full Stack (Luca Marchesini) - Full Stack Fest 2016
+25. Clients in control: building demand-driven systems with Om Next (António Nuno Monteiro) - FSF 2016
+26. NeuroJavaScript (Alex Castillo) - Full Stack Fest 2016
+27. Frontend lightning talks - Full Stack Fest 2016
+28. See the data flowing through your app (André Staltz) - Full Stack Fest 2016
+29. Taming the Asynchronous Beast with CSP Channels in JavaScript (Vincenzo Chanese) - FSF 2016
+30. Beyond The Tab: Executing JavaScript Across Browser Contexts (Andrew Dunkman) - FSF 2016
+31. How to build a website that will (eventually) work on Mars? (Slobodan Stojanovic) - FSF 2016
+32. WebAssembly: birth of a virtual ISA (Ben Smith) - Full Stack Fest 2016
+33. Reactive Reality (Massimiliano Mantione) - Full Stack Fest 2016
+34. Virtual Reality is Here, in your Browser (Liv Erickson) - Full Stack Fest 2016
+35. The Physical Web: building on top of the open web (Scott Jenson) - Full Stack Fest 2016
