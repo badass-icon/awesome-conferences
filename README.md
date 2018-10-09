@@ -99,11 +99,124 @@
 
 ## 2017 - 12
 
+### [Black Hat Europe 2017](https://www.youtube.com/watch?v=PHGfbtAKbW0&list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB&index=1)
+
+1. Day 1 Keynote: Diplomacy and Combating Evolving International Cyber Threats
+2. Day 2 Keynote: Security Through Distrusting
+3. BlueBorne - A New Class of Airborne Attacks that can Remotely Compromise Any Linux/IoT Device
+4. How to Rob a Bank over the Phone - Lessons Learned from an Actual Social Engineering Engagement
+5. Nation-State Moneymule's Hunting Season – APT Attacks Targeting Financial Institutions
+6. Intel ME: Flash File System Explained
+7. CLKscrew: Exposing The Perils of Security-Oblivious Energy Management
+8. Automatic Discovery of Evasion Vulnerabilities Using Targeted Protocol Fuzzing
+9. Attacking NextGen Roaming Networks
+10. Dealing The Perfect Hand - Shuffling Memory Blocks On z/OS
+11. By-Design Backdooring of Encryption System - Can We Trust Foreign Encryption Algorithms
+12. Breaking Bad: Stealing Patient Data Through Medical Devices
+13. Zero Days, Thousands of Nights: The Life & Times of Zero-Day Vulns and Their Exploits
+14. Key Reinstallation Attacks: Breaking the WPA2 Protocol
+15. Red Team Techniques for Evading, Bypassing & Disabling MS
+16. Jailbreaking Apple Watch
+17. The Spear to Break the Security Wall of S7Commplus
+18. Becoming You: A Glimpse Into Credential Abuse
+19. A Universal Controller to Take Over a Z-Wave Network
+20. How Samsung Secures Your Wallet and How To Break It
+21. Fed Up Getting Shattered and Log Jammed? A New Generation of Crypto Is Coming
+22. Wi-Fi Direct To Hell: Attacking Wi-Fi Direct Protocol Implementations
+23. Enraptured Minds: Strategic Gaming of Cognitive Mindhacks
+24. Inside Android's SafetyNet Attestation
+25. A Retrospective Case Study of VMware Guest-to-Host Escape Vulnerabilities
+26. Ro(o)tten Apples: Vulnerability Heaven in the iOS Sandbox
+27. Heap Layout Optimisation for Exploitation
+28. Breaking Out HSTS (and HPKP) On Firefox, IE/Edge and (Possibly) Chrome
+29. Exfiltrating Reconnaissance Data from Air-Gapped ICS/SCADA Networks
+30. CALDERA: Automating Adversary Emulation
+31. Lost in Transaction: Process Doppelgänging
+32. A Process is No One: Hunting for Token Manipulation
+33. Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing
+34. Attacks Against GSMA's M2M Remote Provisioning
+35. I Trust My Zombies: A Trust-Enabled Botnet
+36. GDPR and Third Party JS - Can It Be Done?
+37. Self-Verifying Authentication – A Framework For Safer Integrations of Single-Sign-On Services
+38. DIFUZE: Android Kernel Driver Fuzzing
+39. How to Hack a Turned-Off Computer, or Running Unsigned Code in Intel Management Engine
+40. Passive Fingerprinting of HTTP/2 Clients
+41. The Apple of Your EFI: An Updated Study of EFI Security
+42. Hiding PIN's Artifacts to Defeat Evasive Malware
+43. Locknote: Conclusions and Key Takeaways From Black Hat Europe 2017
+
 ## 2017 - 11
 
 ## 2017 - 10
 
 ## 2017 - 09
+
+### [Black Hat USA 2017](https://www.youtube.com/watch?v=YJOMTAREFtY&index=1&list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd)
+
+1. Black Hat USA 2017 Keynote
+2. Making Diversity a Priority in Security
+3. Ochko123 - How the Feds Caught Russian Mega-Carder Roman Seleznev
+4. Revoke-Obfuscation: PowerShell Obfuscation Detection (And Evasion) Using Science
+5. Breaking the x86 Instruction Set
+6. Cloak & Dagger: From Two Permissions to Complete Control of the UI Feedback Loop
+7. Ichthyology: Phishing as a Science
+8. Broadpwn: Remotely Compromising Android and iOS via a Bug in Broadcom's Wi-Fi Chipsets
+9. Cracking the Lens: Targeting HTTP's Hidden Attack-Surface
+10. An ACE Up the Sleeve: Designing Active Directory DACL Backdoors
+11. (in)Security in Building Automation: How to Create Dark Buildings with Light Speed
+12. Behind the Plexiglass Curtain: Stats and Stories from the Black Hat NOC
+13. How We Created the First SHA-1 Collision and What it Means for Hash Security
+14. Bochspwn Reloaded: Detecting Kernel Memory Disclosure with x86 Emulation and Taint Tracking
+15. Exploiting Network Printers
+16. Why Most Cyber Security Training Fails and What We Can Do About it
+17. Breaking the Laws of Robotics: Attacking Industrial Robots
+18. Infecting the Enterprise: Abusing Office365+Powershell for Covert C2
+19. Digital Vengeance: Exploiting the Most Notorious C&C Toolkits
+20. Network Automation is Not Your Safe Haven
+21. Developing Trust and Gitting Betrayed
+22. How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass & more
+23. Attacking Encrypted USB Keys the Hard(ware) Way
+24. Game of Chromes: Owning the Web with Zombie Chrome Extensions
+25. Challenges of Cooperation Across Cyberspace
+26. Honey, I Shrunk the Attack Surface – Adventures in Android Security Hardening
+27. Escalating Insider Threats Using VMware's API
+28. Tracking Ransomware End to End
+29. The Industrial Revolution of Lateral Movement
+30. Redesigning PKI to Solve Revocation Expiration and Rotation Problems
+31. Practical Tips for Defending Web Applications in the Age of DevOps
+32. Betraying the BIOS: Where the Guardians of the BIOS are Failing
+33. Fad or Future? Getting Past the Bug Bounty Hype
+34. Web Cache Deception Attack
+35. ShieldFS: The Last Word in Ransomware Resilient File Systems
+36. OpenCrypto: Unchaining the JavaCard Ecosystem
+37. Exploit Kit Cornucopia
+38. Hacking Serverless Runtimes: Profiling AWS Lambda Azure Functions & More
+39. Hacking Hardware with a $10 SD Card Reader
+40. Datacenter Orchestration Security and Insecurity: Assessing Kubernetes, Mesos, and Docker at Scale
+41. Evading Microsoft ATA for Active Directory Domination
+42. Breaking XSS Mitigations Via Script Gadgets
+43. WiFuzz: Detecting and Exploiting Logical Flaws in the Wi-Fi Cryptographic Handshake
+44. Friday the 13th: JSON Attacks
+45. All Your SMS & Contacts Belong to ADUPS & Others
+46. They're Coming for Your Tools: Exploiting Design Flaws for Active Intrusion Prevention
+47. Exploiting a Single SQLite Vulnerability Across Multiple Software
+48. The Active Directory Botnet
+49. Automated Testing of Crypto Software Using Differential Fuzzing
+50. Big Game Theory Hunting: The Peculiarities of Human Behavior in the InfoSec Game
+51. Go to Hunt, Then Sleep
+52. PEIMA: Harnessing Power Laws to Detect Malicious Activities
+53. Adventures in Attacking Wind Farm Control Networks
+54. kR^X: Comprehensive Kernel Protection Against Just-In-Time Code Reuse
+55. Intercepting iCloud Keychain
+56. Defeating Samsung KNOX with Zero Privilege
+57. The Epocholypse 2038: What's in Store for the Next 20 Years
+58. Bug Collisions Meet Government Vulnerability Disclosure
+59. Intel AMT Stealth Breakthrough
+60. The Adventures of AV and the Leaky Sandbox
+61. IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices
+62. Lies and Damn Lies: Getting Past the Hype of Endpoint Security Solutions
+63. Sonic Gun to Smart Devices: Your Devices Lose Control Under Ultrasound/Sound
+64. ''Ghost Telephonist' Link Hijack Exploitations in 4G LTE CS Fallback
 
 ### [Full Stack Fest 2017](https://www.youtube.com/watch?v=K9-FxylS_Sk&index=1&list=PLe9psSNJBf743rgLMRVKytyQkDUolnZnY)
 
