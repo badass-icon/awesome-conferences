@@ -104,7 +104,8 @@
 ## 2017 - 10
 
 ## 2017 - 09
-[Full Stack Fest 2017](https://www.youtube.com/watch?v=K9-FxylS_Sk&index=1&list=PLe9psSNJBf743rgLMRVKytyQkDUolnZnY)
+
+### [Full Stack Fest 2017](https://www.youtube.com/watch?v=K9-FxylS_Sk&index=1&list=PLe9psSNJBf743rgLMRVKytyQkDUolnZnY)
 
 1. Highlights of Full Stack Fest 2017: Problems of today, wonders from the future
 2. The web of commons (Karissa McKelvey)
