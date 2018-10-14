@@ -44,6 +44,10 @@
 ### [JavaScript fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y9w-Og6McUeN-5YYhaUyn7E)
 ### [.NET fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y-mIzEc4u17HOHBHcHwqcyj)
 
+## Mail Ru (RU)
+### [Mail Ru All Playlists](https://www.youtube.com/user/TPMGTU/playlists)
+### [Фронтенд разработка (осень 2017)](https://www.youtube.com/playlist?list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu)
+
 ## OdessaJS (RU)
 ### [OdessaJS 2018](https://www.youtube.com/playlist?list=PLUF1zRLAgrPGnLTqOXYU1Sqy4NNVwAWfd)
 ### [OdessaJS 2017](https://www.youtube.com/playlist?list=PLUF1zRLAgrPHwKYzXbAprzO3-Ykbq1xkY)
@@ -51,3 +55,7 @@
 ## WebSummit (EN)
 ### [WebSummit 2017](https://www.youtube.com/playlist?list=PLxptNs2MLOjmMdvezxjI-c2zMqmU9MP6V)
 ### [WebSummit 2016](https://www.youtube.com/playlist?list=PLxptNs2MLOjkVIxSu5hCTjqNwMuNJOhsy)
+
+## XP Days UA (RU)
+### [XP Days 2017](https://www.youtube.com/playlist?list=PLrw9xNHk9SGRlHZqC_uDsGNXQFAVnuLr_)
+### [XP Days 2017](https://www.youtube.com/playlist?list=PLrw9xNHk9SGS9mp66njkmuUmhxuejhfMG)
