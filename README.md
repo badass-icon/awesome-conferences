@@ -6,6 +6,11 @@
 ### [Black Hat Europe 2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtpLirwYHPWyqcEFPbr-uB)
 ### [Black Hat USA 2017](https://www.youtube.com/playlist?list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd)
 
+## CodeFest ru
+### [CodeFest 2018](https://www.youtube.com/user/codefestru/playlists?shelf_id=5&view=50&sort=dd)
+### [CodeFest 2017](https://www.youtube.com/user/codefestru/playlists?shelf_id=4&view=50&sort=dd)
+### [CodeFest 2016](https://www.youtube.com/user/codefestru/playlists?shelf_id=3&view=50&sort=dd)
+
 ## Full Stack Fest
 ### [Full Stack Fest 2018](https://www.youtube.com/playlist?list=PLe9psSNJBf75O6abYvvjxhm36_QU9H-f2)
 ### [Full Stack Fest 2017](https://www.youtube.com/playlist?list=PLe9psSNJBf743rgLMRVKytyQkDUolnZnY)
