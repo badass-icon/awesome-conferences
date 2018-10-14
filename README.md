@@ -1,5 +1,8 @@
 # Awesome Conferences 
 
+## Amazon
+### [All Playlists](https://www.youtube.com/user/AmazonWebServices/playlists)
+
 ## Black Hat (EN)
 ### [Black Hat USA 2018](https://www.youtube.com/playlist?list=PLH15HpR5qRsVAXGmSVfjWrGtGLJjIJuGe)
 ### [Black Hat Asia 2018](https://www.youtube.com/playlist?list=PLH15HpR5qRsWf7SJedVnkViJ1eXB-bUibb)
@@ -14,6 +17,9 @@
 ## DEF CON (EN)
 ### [DEF CON 26](https://www.youtube.com/playlist?list=PL9fPq3eQfaaD0cf5c7wkzMoj2kifzGO4U)
 ### [DEF CON 25](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC)
+
+## DevOops (RU)
+### [DevOops 2017](https://www.youtube.com/playlist?list=PL-ety8gh7rToUMuEgJFAL3T3ufc0VlCAe)
 
 ## DotNext (RU)
 ### [DotNext Piter 2018](https://www.youtube.com/playlist?list=PLtWrKx3nUGBfAOK4axHDuulZJd-CTcbO9)
@@ -46,6 +52,10 @@
 
 ## GoTo Conferences
 ### [All Playlists](https://www.youtube.com/user/GotoConferences/playlists)
+
+## HighLoad++ (RU)
+### [HighLoad++ 2017](https://www.youtube.com/watch?v=BWx7E18ZxkU&list=PLH-XmS0lSi_yn4pCZVOHqWaqQ9trMpyLI)
+### [HighLoad++ 2016](https://www.youtube.com/playlist?list=PLH-XmS0lSi_yLq2XS2Y1DScY6NPbQj4Dt)
 
 ## Mail Ru (RU)
 ### [All Playlists](https://www.youtube.com/user/TPMGTU/playlists)
