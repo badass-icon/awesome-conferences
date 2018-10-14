@@ -15,6 +15,11 @@
 ### [DEF CON 26](https://www.youtube.com/playlist?list=PL9fPq3eQfaaD0cf5c7wkzMoj2kifzGO4U)
 ### [DEF CON 25](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC)
 
+## DotNext
+### [DotNext Piter 2018](https://www.youtube.com/playlist?list=PLtWrKx3nUGBfAOK4axHDuulZJd-CTcbO9)
+### [DotNext Moscow 2017](https://www.youtube.com/playlist?list=PLtWrKx3nUGBfpyGWy9Qo8kd7r0sPiMFOF)
+### [DotNext Piter 2017](https://www.youtube.com/playlist?list=PLtWrKx3nUGBfH5h9ago9ri5hxDT5HFH7I)
+
 ## Full Stack Fest
 ### [Full Stack Fest 2018](https://www.youtube.com/playlist?list=PLe9psSNJBf75O6abYvvjxhm36_QU9H-f2)
 ### [Full Stack Fest 2017](https://www.youtube.com/playlist?list=PLe9psSNJBf743rgLMRVKytyQkDUolnZnY)
