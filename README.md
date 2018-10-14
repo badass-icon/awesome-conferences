@@ -11,6 +11,10 @@
 ### [CodeFest 2017](https://www.youtube.com/user/codefestru/playlists?shelf_id=4&view=50&sort=dd)
 ### [CodeFest 2016](https://www.youtube.com/user/codefestru/playlists?shelf_id=3&view=50&sort=dd)
 
+## DEF CON
+### [DEF CON 26](https://www.youtube.com/playlist?list=PL9fPq3eQfaaD0cf5c7wkzMoj2kifzGO4U)
+### [DEF CON 25](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC)
+
 ## Full Stack Fest
 ### [Full Stack Fest 2018](https://www.youtube.com/playlist?list=PLe9psSNJBf75O6abYvvjxhm36_QU9H-f2)
 ### [Full Stack Fest 2017](https://www.youtube.com/playlist?list=PLe9psSNJBf743rgLMRVKytyQkDUolnZnY)
@@ -35,8 +39,7 @@
 ### [JavaScript fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y9w-Og6McUeN-5YYhaUyn7E)
 ### [.NET fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y-mIzEc4u17HOHBHcHwqcyj)
 
-## DEF CON
-### [DEF CON 26](https://www.youtube.com/playlist?list=PL9fPq3eQfaaD0cf5c7wkzMoj2kifzGO4U)
-### [DEF CON 25](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC)
-
+## WebSummit
+### [WebSummit 2017](https://www.youtube.com/playlist?list=PLxptNs2MLOjmMdvezxjI-c2zMqmU9MP6V)
+### [WebSummit 2016](https://www.youtube.com/playlist?list=PLxptNs2MLOjkVIxSu5hCTjqNwMuNJOhsy)
 
