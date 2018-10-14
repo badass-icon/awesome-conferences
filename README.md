@@ -44,8 +44,11 @@
 ### [JavaScript fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y9w-Og6McUeN-5YYhaUyn7E)
 ### [.NET fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y-mIzEc4u17HOHBHcHwqcyj)
 
+## GoTo Conferences
+### [All Playlists](https://www.youtube.com/user/GotoConferences/playlists)
+
 ## Mail Ru (RU)
-### [Mail Ru All Playlists](https://www.youtube.com/user/TPMGTU/playlists)
+### [All Playlists](https://www.youtube.com/user/TPMGTU/playlists)
 ### [Фронтенд разработка (осень 2017)](https://www.youtube.com/playlist?list=PLrCZzMib1e9r9OwZDTtkgdIOy84SwICKu)
 
 ## OdessaJS (RU)
