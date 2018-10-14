@@ -1,6 +1,6 @@
 # Awesome Conferences 
 
-## Amazon
+## Amazon (EN)
 ### [All Playlists](https://www.youtube.com/user/AmazonWebServices/playlists)
 
 ## Black Hat (EN)
@@ -50,7 +50,7 @@
 ### [JavaScript fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y9w-Og6McUeN-5YYhaUyn7E)
 ### [.NET fwdays'17](https://www.youtube.com/playlist?list=PLPcgQFk9n9y-mIzEc4u17HOHBHcHwqcyj)
 
-## GoTo Conferences
+## GoTo Conferences (EN)
 ### [All Playlists](https://www.youtube.com/user/GotoConferences/playlists)
 
 ## HighLoad++ (RU)
