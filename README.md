@@ -61,4 +61,4 @@
 
 ## XP Days UA (RU)
 ### [XP Days 2017](https://www.youtube.com/playlist?list=PLrw9xNHk9SGRlHZqC_uDsGNXQFAVnuLr_)
-### [XP Days 2017](https://www.youtube.com/playlist?list=PLrw9xNHk9SGS9mp66njkmuUmhxuejhfMG)
+### [XP Days 2016](https://www.youtube.com/playlist?list=PLrw9xNHk9SGS9mp66njkmuUmhxuejhfMG)
